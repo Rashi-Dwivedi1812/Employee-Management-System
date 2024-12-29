@@ -1,3 +1,3 @@
 # Employee Managemnet System
 
-A Frotent Project using React framework
+A Frontend Project using React framework
